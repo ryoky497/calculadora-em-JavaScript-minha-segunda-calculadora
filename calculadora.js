@@ -1,7 +1,7 @@
 while (true) {
 
   console.log("deseja começar ou sair? ")
-  pergunta = prompt("")
+ let pergunta = prompt("")
   if (pergunta === "sair")
       break;
 
