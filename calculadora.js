@@ -20,14 +20,14 @@ while (true) {
       }
       else if (operador === "/") {
           if (N2 === 0) {
-              console.log("impossivel realizar está conta")
+              console.log("impossivel realizar esta conta")
           }
           else {
               console.log(N1 / N2)
           }
       }
       else {
-          console.log("impossivel realizar está conta")
+          console.log("impossivel realizar esta conta")
       }
 
 }
